@@ -1,0 +1,86 @@
+apiVersion: v1
+entries:
+  cluster-secret:
+  - apiVersion: v2
+    appVersion: 0.2.1
+    created: "2023-02-17T14:51:39.785134-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 23fd3406e328dfe6b1b39b2776e1c564b0759d4cc89bd5f918ce01f5bf12d740
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.2.1/cluster-secret-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2023-02-16T10:32:51.265985-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7afbb1914af33de5a8adcf3c00649494034374139672130164585d87d2781bbf
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.2.0/cluster-secret-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.1.4
+    created: "2023-02-13T10:54:14.928902-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 04debbb95358f9c3e852eaec832c2d06825d7bfdc0684d0d2ea857527243ec4f
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.1.4/cluster-secret-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 0.1.3
+    created: "2023-02-13T10:40:15.796031-03:00"
+    description: A Helm chart for Kubernetes
+    digest: c69be47d33eb995e5a0aad37e68154c6be3d180f418b768a1a86b27480c39cb1
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.1.3/cluster-secret-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2023-02-13T09:30:32.777206-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 81cb0d617b7dfa17c08a4d4d617cdd027fbbfa874519206702b27140bffbb20a
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.1.2/cluster-secret-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2023-02-13T08:41:35.856868-03:00"
+    description: A Helm chart for Kubernetes
+    digest: d25958d319185bf69bbf8fbf4892f18c2ac2d9bd5254568e5505338b223b4b18
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.1.1/cluster-secret-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-02-13T08:19:56.454835-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 9e3e825262311df3b9e2d3145fa8c0a98c9306533edf59f008b04d7829fb3f5d
+    name: cluster-secret
+    type: application
+    urls:
+    - https://github.com/ChistaDATA/cluster-secret-operator/releases/download/v0.1.0/cluster-secret-0.1.0.tgz
+    version: 0.1.0
+  clickhouse-operator:
+  - apiVersion: v2
+    appVersion: 0.21.2
+    created: "2023-07-14T14:51:39.785134-03:00"
+    description: Helm chart for Altinity ClickHouse operator v0.21.2
+    digest: c5dab885149f2fc66dd1c4e8f7f9e801
+    name: clickhouse-operator
+    type: application
+    urls:
+    - https://github.com/Altinity/clickhouse-operator/releases/download/release-0.21.2/altinity-clickhouse-operator-0.21.2.tgz
+    version: 0.21.2
+
+generated: "2023-07-14T14:51:39.783502-03:00"
